@@ -1,0 +1,4 @@
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\obj\Debug\net8.0\AgendaElectronica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\obj\Debug\net8.0\AgendaElectronica.Domain.AssemblyInfoInputs.cache
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\obj\Debug\net8.0\AgendaElectronica.Domain.AssemblyInfo.cs
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\obj\Debug\net8.0\AgendaElectronica.Domain.csproj.CoreCompileInputs.cache

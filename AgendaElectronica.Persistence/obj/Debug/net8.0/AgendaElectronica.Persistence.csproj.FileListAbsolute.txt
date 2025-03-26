@@ -1,0 +1,5 @@
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\obj\Debug\net8.0\AgendaElectronica.Persistence.csproj.AssemblyReference.cache
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\obj\Debug\net8.0\AgendaElectronica.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\obj\Debug\net8.0\AgendaElectronica.Persistence.AssemblyInfoInputs.cache
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\obj\Debug\net8.0\AgendaElectronica.Persistence.AssemblyInfo.cs
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\obj\Debug\net8.0\AgendaElectronica.Persistence.csproj.CoreCompileInputs.cache
