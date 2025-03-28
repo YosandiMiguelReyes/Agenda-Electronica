@@ -15,8 +15,4 @@
     <ProjectReference Include="..\AgendaElectronica.Domain\AgendaElectronica.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
-  </ItemGroup>
-
 </Project>

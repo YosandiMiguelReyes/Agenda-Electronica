@@ -5,7 +5,7 @@ using System.Data.Common;
 
 namespace AgendaElectronica.Domain.Entities
 {
-    public class Contactos
+    public class Contacts
     {
         [Key]
         int id { get; set; }

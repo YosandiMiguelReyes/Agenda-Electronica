@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendaElectronica.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cbff53ca32137f475e4e9d048681e040609c69f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendaElectronica.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendaElectronica.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

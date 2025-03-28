@@ -1,7 +1,7 @@
 ﻿
 namespace AgendaElectronica.Persistence.Models
 {
-    public class ContactosModel
+    public class ContactsModel
     {
         public int Id { get; set; }
         public string Name { get; set; }

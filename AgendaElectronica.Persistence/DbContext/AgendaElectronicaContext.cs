@@ -14,7 +14,7 @@ public partial class AgendaElectronicaContext : DbContext
 
     #region DbSets
 
-    public DbSet<Contactos> Contactos { get; set; }
+    public DbSet<Contacts> Contactos { get; set; }
 
     #endregion
 }
