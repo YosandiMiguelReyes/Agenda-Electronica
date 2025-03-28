@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendaElectronica.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cbff53ca32137f475e4e9d048681e040609c69f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82bcee871d4e7a42276cda552012e7981fbe7a2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendaElectronica.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendaElectronica.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

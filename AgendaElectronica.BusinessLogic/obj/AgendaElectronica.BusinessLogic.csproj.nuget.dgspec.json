@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.BusinessLogic\\AgendaElectronica.BusinessLogic.csproj": {}
+  },
+  "projects": {
+    "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.BusinessLogic\\AgendaElectronica.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.BusinessLogic\\AgendaElectronica.BusinessLogic.csproj",
+        "projectName": "AgendaElectronica.BusinessLogic",
+        "projectPath": "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.BusinessLogic\\AgendaElectronica.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\elyos\\.nuget\\packages\\",
+        "outputPath": "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elyos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.Domain\\AgendaElectronica.Domain.csproj": {
+                "projectPath": "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.Domain\\AgendaElectronica.Domain.csproj"
+              },
+              "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.Persistence\\AgendaElectronica.Persistence.csproj": {
+                "projectPath": "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.Persistence\\AgendaElectronica.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.Domain\\AgendaElectronica.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.Domain\\AgendaElectronica.Domain.csproj",
+        "projectName": "AgendaElectronica.Domain",
+        "projectPath": "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.Domain\\AgendaElectronica.Domain.csproj",
+        "packagesPath": "C:\\Users\\elyos\\.nuget\\packages\\",
+        "outputPath": "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elyos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.Persistence\\AgendaElectronica.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.Persistence\\AgendaElectronica.Persistence.csproj",
+        "projectName": "AgendaElectronica.Persistence",
+        "projectPath": "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.Persistence\\AgendaElectronica.Persistence.csproj",
+        "packagesPath": "C:\\Users\\elyos\\.nuget\\packages\\",
+        "outputPath": "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elyos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.Domain\\AgendaElectronica.Domain.csproj": {
+                "projectPath": "F:\\All\\Code\\Programas\\Agenda Electronica\\AgendaElectronica.Domain\\AgendaElectronica.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -3,3 +3,14 @@ F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\obj\Debug
 F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\obj\Debug\net8.0\AgendaElectronica.Persistence.AssemblyInfoInputs.cache
 F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\obj\Debug\net8.0\AgendaElectronica.Persistence.AssemblyInfo.cs
 F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\obj\Debug\net8.0\AgendaElectronica.Persistence.csproj.CoreCompileInputs.cache
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\bin\Debug\net8.0\AgendaElectronica.Persistence.deps.json
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\bin\Debug\net8.0\AgendaElectronica.Persistence.dll
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\bin\Debug\net8.0\AgendaElectronica.Persistence.pdb
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\bin\Debug\net8.0\AgendaElectronica.Domain.dll
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\bin\Debug\net8.0\AgendaElectronica.Domain.pdb
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\obj\Debug\net8.0\AgendaElectronica.Persistence.sourcelink.json
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\obj\Debug\net8.0\AgendaElectronica.Persistence.csproj.CopyComplete
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\obj\Debug\net8.0\AgendaElectronica.Persistence.dll
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\obj\Debug\net8.0\refint\AgendaElectronica.Persistence.dll
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\obj\Debug\net8.0\AgendaElectronica.Persistence.pdb
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Persistence\obj\Debug\net8.0\ref\AgendaElectronica.Persistence.dll

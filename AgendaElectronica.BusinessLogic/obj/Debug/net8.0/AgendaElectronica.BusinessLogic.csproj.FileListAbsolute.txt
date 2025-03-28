@@ -1,0 +1,6 @@
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.BusinessLogic\obj\Debug\net8.0\AgendaElectronica.BusinessLogic.csproj.AssemblyReference.cache
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.BusinessLogic\obj\Debug\net8.0\AgendaElectronica.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.BusinessLogic\obj\Debug\net8.0\AgendaElectronica.BusinessLogic.AssemblyInfoInputs.cache
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.BusinessLogic\obj\Debug\net8.0\AgendaElectronica.BusinessLogic.AssemblyInfo.cs
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.BusinessLogic\obj\Debug\net8.0\AgendaElectronica.BusinessLogic.csproj.CoreCompileInputs.cache
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.BusinessLogic\obj\Debug\net8.0\AgendaElectronica.BusinessLogic.sourcelink.json

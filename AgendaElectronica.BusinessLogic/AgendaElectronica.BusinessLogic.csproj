@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AgendaElectronica.Domain\AgendaElectronica.Domain.csproj" />
+    <ProjectReference Include="..\AgendaElectronica.Persistence\AgendaElectronica.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

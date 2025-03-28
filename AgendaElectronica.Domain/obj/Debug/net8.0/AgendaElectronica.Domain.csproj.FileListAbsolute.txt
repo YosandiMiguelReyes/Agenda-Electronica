@@ -2,3 +2,11 @@ F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\obj\Debug\net8
 F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\obj\Debug\net8.0\AgendaElectronica.Domain.AssemblyInfoInputs.cache
 F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\obj\Debug\net8.0\AgendaElectronica.Domain.AssemblyInfo.cs
 F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\obj\Debug\net8.0\AgendaElectronica.Domain.csproj.CoreCompileInputs.cache
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\bin\Debug\net8.0\AgendaElectronica.Domain.deps.json
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\bin\Debug\net8.0\AgendaElectronica.Domain.dll
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\bin\Debug\net8.0\AgendaElectronica.Domain.pdb
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\obj\Debug\net8.0\AgendaElectronica.Domain.sourcelink.json
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\obj\Debug\net8.0\AgendaElectronica.Domain.dll
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\obj\Debug\net8.0\refint\AgendaElectronica.Domain.dll
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\obj\Debug\net8.0\AgendaElectronica.Domain.pdb
+F:\All\Code\Programas\Agenda Electronica\AgendaElectronica.Domain\obj\Debug\net8.0\ref\AgendaElectronica.Domain.dll
